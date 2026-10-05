@@ -4,6 +4,7 @@ A statistical model estimating team scoring rates from historical match data, us
 
 Originally built for the *Analyse de Données Avancées* module during a year studied in France as part of a Physics MSc at the University of Manchester.
 
+![Monte Carlo simulation results](prob_tournament_win.png)
 
 How it works:
 1. **Estimates each team's scoring rate (λ)** from historical match data, modelling goals 
